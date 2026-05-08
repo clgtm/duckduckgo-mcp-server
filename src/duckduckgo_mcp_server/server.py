@@ -363,7 +363,9 @@ class WebContentFetcher:
 
 
 # Initialize FastMCP server
-mcp = FastMCP("ddg-search")
+# mcp = FastMCP("ddg-search")
+mcp = FastMCP("ddg-search", host="0.0.0.0")
+
 
 # Read configuration from environment variables
 SAFE_SEARCH_MODE = os.getenv("DDG_SAFE_SEARCH", "MODERATE").upper()
