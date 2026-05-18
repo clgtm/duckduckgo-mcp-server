@@ -1,4 +1,4 @@
-# DuckDuckGo MCP Server for Search
+# DuckDuckGo MCP Server for Search using DuckDuckGo Search Engine
 
 [![PyPI version](https://img.shields.io/pypi/v/duckduckgo-mcp-server)](https://pypi.org/project/duckduckgo-mcp-server/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/duckduckgo-mcp-server)](https://pypi.org/project/duckduckgo-mcp-server/)
